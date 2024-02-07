@@ -71,7 +71,7 @@ $(document).ready(function() {
 
       annotations: [{
         labelOptions: {
-          backgroundColor: 'rgba(0,0,0,0.8)',
+          backgroundColor: 'rgba(0,255,255,0.8)',
           verticalAlign: 'top',
           y: 10
         },
