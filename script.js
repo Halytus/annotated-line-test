@@ -37,7 +37,7 @@ $(document).ready(function() {
             xAxis: 0,
             yAxis: 0,
             x: x[0],
-            y: x[1]
+            y: x[15]
           },
           text: x[nSeries+1]
         }
