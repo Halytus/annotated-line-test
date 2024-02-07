@@ -1,4 +1,4 @@
-var TITLE = 'Air Transport, Passengers Carried (1970–2018)';
+var TITLE = 'Air Transport, Passengers Carried from 1970–2018';
 
 // Caption underneath the chart
 var CAPTION = 'Source: The World Bank';
